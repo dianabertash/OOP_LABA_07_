@@ -1,0 +1,7 @@
+Push: 1 (size = 1)
+Push: 2 (size = 2)
+Pop: 2 (size = 1)
+Push: 3 (size = 2)
+Push: 4 (size = 3)
+Pop: 4 (size = 2)
+Push: 5 (size = 3)

@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{3E9D4566-7635-4E2F-9B91-74DFCCBD15A5}</ProjectGuid>
+    <ProjectGuid>{9F8FC605-1B4D-4D9B-AD5C-0E6C7A535734}</ProjectGuid>
     <RootNamespace>OOPLABA7</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

@@ -9,7 +9,7 @@ int main()
 	ifstream in;
 	in.open("D:\\Labs\\Text1.txt");
 	ofstream out;
-	out.open("C:\\Labs\\Text2.txt", std::ios::app);
+	out.open("D:\\Labs\\Text2.txt", std::ios::app);
 	queue<int> *list = new queue<int>();
 	int item;
 	int size;
